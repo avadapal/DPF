@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/avadapal/Vadapalli-PhD/DPF/aes.h
+block.h
+/home/avadapal/Vadapalli-PhD/DPF/block.h
+
+/home/avadapal/Vadapalli-PhD/DPF/block.h
+wmmintrin.h
+-
+emmintrin.h
+-
+xmmintrin.h
+-
+stdio.h
+-
+
+/home/avadapal/Vadapalli-PhD/DPF/utils.c
+stdio.h
+-
+string.h
+-
+utils.h
+/home/avadapal/Vadapalli-PhD/DPF/utils.h
+
+/home/avadapal/Vadapalli-PhD/DPF/utils.h
+aes.h
+/home/avadapal/Vadapalli-PhD/DPF/aes.h
+block.h
+/home/avadapal/Vadapalli-PhD/DPF/block.h
+

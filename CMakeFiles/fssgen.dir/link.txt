@@ -1,0 +1,1 @@
+/usr/bin/cc    CMakeFiles/fssgen.dir/fssgen.c.o CMakeFiles/fssgen.dir/utils.c.o CMakeFiles/fssgen.dir/block.c.o CMakeFiles/fssgen.dir/b64.c.o  -o fssgen -lssl -lcrypto 
